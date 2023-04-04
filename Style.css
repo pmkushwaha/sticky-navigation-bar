@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+}
+#logo{
+    text-align: center;
+}
+img{
+
+    width:250px;
+    height: auto;
+     
+}
+
+#menu{
+    text-align: center;
+    background-color: rgb(228, 98, 12);
+   
+  
+}
+li{
+    display: inline-block;
+    color: whitesmoke;
+    font-weight: bold;
+    padding: 15px 10px;
+    font-size: 18px;
+}
+
+#container{
+    text-align: center;
+    padding: 50px 100px;
+
+}
+#banner{
+    width: 100%;
+    height: auto;
+
+}
+#container p{
+    text-align: justify;
+}
+
+
+/* code to make sticky navigation */
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
